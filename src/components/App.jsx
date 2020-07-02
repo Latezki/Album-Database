@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 import SearchArea from "./SearchArea";
-import AlbumList from "./AlbumList";
+import AlbumItem from "./AlbumItem";
 import albums from "../albums";
 import Grid from "@material-ui/core/Grid";
 
@@ -34,7 +34,7 @@ function App() {
                     {albumList.map((album, index) => {
                         return (
                             <Grid item md={3} sm={6} xs={12}>
-                                <AlbumList 
+                                <AlbumItem 
                                     key={index}
                                     id={album.id}
                                     artist={album.artist}

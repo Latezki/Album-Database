@@ -50,25 +50,15 @@ footer {
     font-size: 1.5em;
 }
 
-.search-area button {
-    height: 38px;
-    width: 100px;
-    margin-left: 2%;
-    font-size: 1.5em;
-    background-color: #3CC47C;
-    color: #FFF;
-    border: None;
-}
-
 .search-area button:hover {
     background-color: #24754A;
 }
 
-.album-list {
-    padding: 2% 5%;
+.album-item {
+    padding: 2% 2% 1%;
 }
 
-.album-list:hover {
+.album-item:hover {
     background-color: lightgreen;
 }
 
