@@ -19,7 +19,7 @@ function App() {
         } else {
             setAlbumList(() => {
                 return albums.filter((albumItem, index) => {
-                    return albumItem.album.toLowerCase().includes(term);
+                    return albumItem.album.toLowerCase().includes(term) || albumItem.artist.toLowerCase().includes(term);
                 });
             });
         }  
