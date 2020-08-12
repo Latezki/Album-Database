@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60422c7ec133a450fecbeedf6f7917fd",
+    "revision": "56fe2ecbf26399e5f917555bed2eb83e",
     "url": "/LK-Album-Database/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LK-Album-Database/static/js/2.1eda321b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1336854c347cfd88acdc",
-    "url": "/LK-Album-Database/static/js/main.22dfe554.chunk.js"
+    "revision": "f3ea88fd62b28384f836",
+    "url": "/LK-Album-Database/static/js/main.eb4f8f4e.chunk.js"
   },
   {
     "revision": "3c49887ff24f678240cc",
