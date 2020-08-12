@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/LK-Album-Database/static/js/main.22dfe554.chunk.js",
+    "main.js.map": "/LK-Album-Database/static/js/main.22dfe554.chunk.js.map",
+    "runtime-main.js": "/LK-Album-Database/static/js/runtime-main.e63674ba.js",
+    "runtime-main.js.map": "/LK-Album-Database/static/js/runtime-main.e63674ba.js.map",
+    "static/js/2.1eda321b.chunk.js": "/LK-Album-Database/static/js/2.1eda321b.chunk.js",
+    "static/js/2.1eda321b.chunk.js.map": "/LK-Album-Database/static/js/2.1eda321b.chunk.js.map",
+    "index.html": "/LK-Album-Database/index.html",
+    "precache-manifest.a63e4863eea8ac8c875d6a9caa803580.js": "/LK-Album-Database/precache-manifest.a63e4863eea8ac8c875d6a9caa803580.js",
+    "service-worker.js": "/LK-Album-Database/service-worker.js",
+    "static/js/2.1eda321b.chunk.js.LICENSE.txt": "/LK-Album-Database/static/js/2.1eda321b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e63674ba.js",
+    "static/js/2.1eda321b.chunk.js",
+    "static/js/main.22dfe554.chunk.js"
+  ]
+}
