@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/LK-Album-Database/precache-manifest.6134b08147e8cfd1b3c9d83df0420562.js"
+  "/LK-Album-Database/precache-manifest.581af119c7ee38dd0b7288d461f94884.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f385a55eac5fefe644c0dd329b08a65e",
+    "revision": "bdd2e8029de917e457ac9690dc75cda9",
     "url": "/LK-Album-Database/index.html"
   },
   {
